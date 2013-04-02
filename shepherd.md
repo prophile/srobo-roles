@@ -13,6 +13,9 @@ Shifts
 ------
 
 Shepherding will be done in 30-minute shifts during match times.
+Responsibilities of the shepherds extend to *matches* that start
+within those 30-minute shifts rather than that being the period of
+time for which they have responsibility.
 
 Procedures
 ----------
