@@ -43,10 +43,8 @@ Fire Code
 ---------
 
 In order to not start a panic, a code phrase will be used to indicate
-a fire in the venue. The code phrase is "bloody hell, the building's
-on fire".
-
-* TODO: come up with a better code phrase...
+a fire in the venue. The code phrase, being subtle but on the theme
+of being on fire, is "Rob's thesis".
 
 Evacuation
 ----------
