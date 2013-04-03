@@ -9,7 +9,7 @@ Responsibilities
 ----------------
 
 * To be present in the arena during matches,
-* To record scoring information while matches are in progress,
+* To record scoring information at the end of matches,
 * To remove jetsam and debris from the arena,
 * To turn off robots if they present a risk to themselves, other
   robots, or spectators, assuming it is safe to do so,
