@@ -15,7 +15,9 @@ Responsibilities
   to interested members of the public who may visit,
 * To direct people towards security for first aid circumstances,
 * To dismissively redirect people to Helpdesk when they come to
-  reception with robot issues.
+  reception with robot issues,
+* To clean and resupply the refreshments table (which is located
+  near reception) at the end of the shift.
 
 Shifts
 ------
