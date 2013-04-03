@@ -11,20 +11,21 @@ Responsibilities
 * To monitor their assigned area,
 * To deal with any injuries or accidents that occur, even if such
   dealing is merely calling in others,
+* To enforce boundaries on team pits within their area, if any,
 * To evacuate their area of competitors, guests and non-essential
   Blueshirts in case an evacuation of the area or building is
   necessary,
 * To inform other Blueshirts about any incidents that occur over
   the radio link,
+* For the warden of the arena area only, to manage teams' usage of
+  the arena during tinker time,
 * To ensure the building alarm is raised in case of fire.
 
 Shifts
 ------
 
-For the areas containing Helpdesk and the Arena, the warden role
-will typically be assigned to the permanent staffer on Helpdesk and
-the Judge respectively. For other areas, the role will be held in
-1-hour shifts.
+The role will be assigned in 90 minute shifts, plus 5 minutes either
+side of transfer time.
 
 Procedures
 ----------
