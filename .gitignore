@@ -1,0 +1,6 @@
+*.tex
+*.aux
+procedure.log
+procedure.out
+procedure.toc
+procedure.pdf
