@@ -60,7 +60,9 @@ Interruption
 ------------
 
 Except in emergencies, it is improper operating procedure to interrupt
-another conversation taking place over the radios. Do not do that.
+another conversation taking place over the radios. If you have
+something to add to the conversation at hand, do so by all means,
+but do not attempt to cut across somebody to start a new conversation.
 
 Codewords
 ---------
