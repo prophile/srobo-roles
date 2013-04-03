@@ -27,3 +27,9 @@ before their published match start time, which means shepherds must
 be talking to teams **three minutes** before their published match
 starting times.
 
+Preparation
+-----------
+
+Blueshirts doing shifts as shepherds should practice their angry
+faces.
+
