@@ -18,6 +18,7 @@ Responsibilities
   robots, or spectators, assuming it is safe to do so,
 * To advise the judge on the events of a match and the application
   of the rules,
+* To instruct teams when and where to put in and remove their robots,
 * To extinguish fires within the arena where it is safe to do so.
 
 Shifts
