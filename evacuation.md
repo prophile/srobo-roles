@@ -16,8 +16,20 @@ If, in the opinion of either the Safety Officer or Head Warden, the
 building must be evacuated, they will issue an instruction to do
 so over the radios.
 
+Fires
+-----
+
+Naturally, the correct action to take in case of fire is to trigger
+the fire alarm, rather than to try to radio the Head Warden or
+Safety Officer.
+
 Upon Evacuation Orders
 ----------------------
+
+An evacuation order is either:
+
+* An instruction over the radios from the Head Warden or Safety Officer, or
+* The building fire alarm.
 
 Each of the area wardens must, as quickly as possible, evacuate
 their area, via the normal fire routes. The area must be cleared
