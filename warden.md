@@ -32,7 +32,50 @@ side of transfer time.
 Procedures
 ----------
 
-* TODO: fill in
+If the warden deems it appropriate to evacuate the *area*, the
+following procedure should be followed.
+
+* Decide upon where to evacuate to, which may be an adjacent area,
+  outside, or otherwise. Stairs should generally be avoided unless
+  absolutely necessary.
+* Announce the evacuation. A reason need not be publicly announced.
+* Shepherd all non-essential Blueshirts, guests, competitors, and
+  team leaders out to the chosen destination.
+* Advise Blueshirts on the situation over the radio.
+* Advise Blueshirts over the radio once the area is safe, which
+  will then be broadcast over the PA system.
+
+If a general evacuation order is given, the following procedure
+must be followed.
+
+* If the order is a radio instruction from the Head Warden or Safety
+  Officer, acknowledge it.
+* Announce the evacuation. The reason need not be publicly announced.
+* Shepherd all non-essential Blueshirts, guest, competitors and
+  team leaders to the designated assembly point. Do not leave the
+  area until they have left. It is advised to instruct Blueshirts
+  in your area on the situation so that they can assist.
+
+In case of minor injuries:
+
+* Direct the unfortunate recipient of the injury to an appropriate
+  first aid point, to be accompanied by either a Blueshirt or their
+  team leader.
+* Inform other Blueshirts over the radio system of what has happened.
+
+In case of significant injuries:
+
+* Clear the immediate area.
+* Summon the Safety Officer via the radio system.
+
+Boundary enforcement:
+
+* Teams are entitled to their full pit space, and have a responsibility
+  not to spread into others' space.
+* Should they do so, a gentle reminder of this fact should typically
+  suffice.
+* The fire routes should be kept clear, and teams should be reminded
+  of this should they attempt to spread into them.
 
 Preparation
 -----------
