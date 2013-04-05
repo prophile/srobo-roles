@@ -8,7 +8,8 @@ providing commentary.
 Responsibilities
 ----------------
 
-* To sit at the judge's desk during matches,
+* To ensure there is at least one judge at the judge's desk during
+  matches,
 * To make final decisions on interpretation of the rules,
 * To record the scores from matches,
 * To resolve disputes under advice from the linesmen,
