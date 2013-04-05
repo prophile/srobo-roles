@@ -13,8 +13,9 @@ Responsibilities
   dealing is merely calling in others,
 * To enforce boundaries on team pits within their area, if any,
 * To evacuate their area of competitors, guests and non-essential
-  Blueshirts in case an evacuation of the area or building is
-  necessary,
+  Blueshirts in case a general evacuation is ordered,
+* To perform an area evacuation of their designated area should
+  they deem it appropriate,
 * To inform other Blueshirts about any incidents that occur over
   the radio link,
 * For the warden of the arena area only, to manage teams' usage of
@@ -40,6 +41,7 @@ Blueshirts doing shifts of assignation as area wardens should
 familiarise themselves with:
 
 * The building's fire evacuation plan,
+* The main evacuation plan,
 * The nearest fire alarm trigger points,
 * The radio procedures,
 * The usage of the powder fire extinguishers.
