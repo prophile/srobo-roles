@@ -43,10 +43,14 @@ entirely of people, excepting:
 Blueshirts not directly involved should make their way to the
 evacuation point with competitors, guests and team leaders.
 
+For the SUSU building, the evacuation point is **TODO: yet to be found**.
+
 Building Re-entry
 -----------------
 
 Once the Head Warden and Safety Officer agree it is safe to re-enter
-the building, they will ask the area wardens to return to their
-posts then make an announcement at the evacuation area.
+the building (possibly in consultation with either Southampton
+Estates and Facilities or the Fire Department in case of a fire
+alarm), they will ask the area wardens to return to their posts
+then make an announcement at the evacuation area.
 
