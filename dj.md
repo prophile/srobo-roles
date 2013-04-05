@@ -13,7 +13,8 @@ Responsibilities
 * To keep music at a level where it does not overpower the commentary,
 * To play Europe's hit The Final Countdown in the buildup to the
   finals,
-* To, on advice from the judge, drop beats.
+* To, on advice from the judge, drop beats, which *may* be sick (or
+  otherwise ill).
 
 Shifts
 ------
