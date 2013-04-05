@@ -15,7 +15,7 @@ Responsibilities
 * To take decisions about the appropriate response to any incidents
   that may arise and issue instructions over the radio link and --
   if necessary -- the PA system,
-* To issue an order to evacuate the building if he or she deems it
+* To issue an general evacuation order if he or she deems it
   necessary,
 * To alter the day's schedule as necessary.
 
