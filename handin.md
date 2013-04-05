@@ -20,8 +20,6 @@ period.
 Procedures
 ----------
 
-* TODO: initial set-out
-
 The following procedure is used for initial set-out:
 
 * Four Blueshirts are applied to a desk each, and one to manage the queues.
