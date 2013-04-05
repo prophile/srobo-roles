@@ -16,8 +16,7 @@ Responsibilities
 * To collect discharged batteries and hand out charged batteries,
 * To move discharged batteries to the battery charging station and bring back
   fresh supplies at the end of shifts,
-* To direct competitors at sources of help where necessary,
-* To collect kits from teams at the end of the competition.
+* To direct competitors at sources of help where necessary.
 
 Shifts
 ------
@@ -33,7 +32,6 @@ Procedures
 ----------
 
 * TODO: tracker
-* TODO: kit handin
 
 Preparation
 -----------
