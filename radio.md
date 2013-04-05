@@ -30,6 +30,8 @@ The following callsigns will be used:
 * **Judge** (for the Judge's desk)
 * **Reception** (for the Reception desk)
 * **All Stations** (for addressing everyone)
+* Stations may also be addressed by username, to contact a specific
+  individual.
 
 Charging
 --------
