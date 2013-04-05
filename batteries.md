@@ -33,6 +33,9 @@ In case of a fire breaking out in the battery charging station:
   the fire. Powder fire extinguishers will be supplied at the
   station. **DO NOT ATTEMPT TO USE A WATER EXTINGUISHER.**
 
+Dead or dangerous batteries should be disposed of by putting them
+into the provided *Sad LiPo Bucket*, which is filled with saline.
+
 Preparation
 -----------
 
