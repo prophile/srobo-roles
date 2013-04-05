@@ -43,7 +43,8 @@ The following procedure is used for each team handing in kit:
 * Place items back into the box, tallying how many of each item are
   present in the Handin Form.
 * Check the Handin Form for missing items.
-* If any items are absent, (TODO: what goes here)
+* If any items are absent, contact Jeremy Morse who will take over
+  the situation.
 * If all items are present, seal the box with the electrical tape.
 * Place the kit box behind the desk.
 * Thank the team, invite them to the next competition, and invite
