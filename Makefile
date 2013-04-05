@@ -1,6 +1,7 @@
 FILES = intro.md evacuation.md injury.md roles.md radio.md head-warden.md \
 warden.md safety-officer.md judge.md linesman.md shepherd.md inspector.md \
-batteries.md helpdesk.md handin.md reception.md duty-tech.md dj.md photographer.md locations.md
+batteries.md helpdesk.md handin.md reception.md duty-tech.md dj.md \
+photographer.md locations.md net-admin.md
 
 .PHONY: all clean
 
