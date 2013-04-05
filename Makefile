@@ -1,4 +1,4 @@
-FILES = intro.md radio.md head-warden.md warden.md safety-officer.md judge.md linesman.md shepherd.md inspector.md batteries.md helpdesk.md reception.md locations.md
+FILES = intro.md evacuation.md radio.md head-warden.md warden.md safety-officer.md judge.md linesman.md shepherd.md inspector.md batteries.md helpdesk.md reception.md locations.md
 
 .PHONY: all clean
 
