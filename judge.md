@@ -2,7 +2,8 @@ Judge
 =====
 
 The judging position involves the responsibility for ruling on
-matters involving the game and the rules, and managing the matches.
+matters involving the game and the rules, managing the matches, and
+providing commentary.
 
 Responsibilities
 ----------------
