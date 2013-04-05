@@ -19,6 +19,7 @@ Responsibilities
   the radio link,
 * For the warden of the arena area only, to manage teams' usage of
   the arena during tinker time,
+* To keep the fire routes in their area clear,
 * To ensure the building alarm is raised in case of fire.
 
 Shifts
