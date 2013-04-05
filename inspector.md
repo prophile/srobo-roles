@@ -29,7 +29,21 @@ of 8 teams per inspector.
 Procedures
 ----------
 
-* TODO: fill in
+At the beginning of inspections, the Safety Officer will assign
+inspectors each a set of teams to inspect.
+
+It is the responsibility of the inspectors to seek out the teams.
+
+To review a robot:
+
+* Enter the team's TLA on a blank Inspection Sheet,
+* Follow the checklist on the Inspection Sheet,
+* If all items are checked and no other safety issues arise, sign
+  off the Inspection Sheet and hand it to the team,
+* If any items fail, or you otherwise judge the robot as unsafe,
+  explain the problem to the team and ask them to fix it,
+* If there is any doubt, consult the Safety Officer for a second
+  opinion.
 
 Preparation
 -----------
