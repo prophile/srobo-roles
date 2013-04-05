@@ -56,7 +56,7 @@ Cable Ties
 Spare Carpet Tiles
   ~ Kept in the Staff Area.
 Spare Scaffolding
-  ~ TBD.
+  ~ Under the stairs on Level 2.
 Fire Extinguishers
   ~ Battery Charging Station: 1
   ~ Arena: 2
