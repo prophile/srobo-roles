@@ -35,8 +35,10 @@ Refreshment Supplies
   ~ Kept at Helpdesk.
 Copies of the Rules
   ~ Kept at Helpdesk and the Judge's Desk.
-Media Consent Forms
+Blank Media Consent Forms
   ~ Kept at Reception.
+Filled Media Consent Forms
+  ~ Kept in the Staff Area, transferred in batches from Reception.
 Wristbands
   ~ Kept at Reception.
 Crimping Tools
