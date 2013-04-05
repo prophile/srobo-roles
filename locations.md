@@ -57,6 +57,8 @@ Spare Carpet Tiles
   ~ Kept in the Staff Area.
 Spare Scaffolding
   ~ Under the stairs on Level 2.
+The Internet
+  ~ In the Staff Area (in its entirety).
 Fire Extinguishers
   ~ Battery Charging Station: 1
   ~ Arena: 2
