@@ -37,7 +37,8 @@ Upon Evacuation Orders
 
 A general evacuation order is either:
 
-* An instruction over the radios from the Head Warden or Safety Officer, or
+* An instruction over the radios from the Head Warden or Safety
+  Officer, or
 * The building fire alarm.
 
 Each of the area wardens must, as quickly as possible, evacuate
@@ -52,7 +53,8 @@ entirely of people, excepting:
 Blueshirts not directly involved should make their way to the
 evacuation point with competitors, guests and team leaders.
 
-For the SUSU building, the evacuation point is **TODO: yet to be found**.
+For the SUSU building, the evacuation point is **The Grass Area
+outside Building 40.**
 
 Building Re-entry
 -----------------
