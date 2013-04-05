@@ -4,9 +4,8 @@ Radio Operating Procedure
 Channel
 -------
 
-We will be using **channel 6** within the venue.
-
-* TODO: confirm this is free
+We will determine a suitable channel at the beginning of the event,
+and all radios will be programmed to this channel.
 
 Push To Talk
 ------------
