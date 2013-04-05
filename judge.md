@@ -29,7 +29,10 @@ for 1 hour shifts.
 Procedures
 ----------
 
-* TODO: fill in
+At the each of match:
+
+* The linesmen will hand completed match score forms to the Judge's Desk.
+* These data should be transferred into compd.
 
 Preparation
 -----------
