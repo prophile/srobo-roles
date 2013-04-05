@@ -32,7 +32,7 @@ Awards Ceremony*.
 Procedures
 ----------
 
-* TODO: tracker
+The Helpdesk tracker is available at [http://helpdesk/](http://helpdesk/).
 
 Kit Replacement:
 
