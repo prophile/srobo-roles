@@ -84,12 +84,10 @@ To request that another station repeat their message, use the phrase
 **say again**.
 
 Avoid the words yes and no, preferring **affirmative** and **negative**
-respectively.
+respectively. **Correct** and **wrong** are also acceptable.
 
 To confirm that you have received and understood a message, use the
-word **roger**. To confirm that you have received and understood a
-message, and will carry out any instructions given within it, use
-the word **wilco** (*will comply*).
+phrase **message received and understood**.
 
 Prefix purely advisory messages with the phrase **be advised**.
 
