@@ -26,11 +26,6 @@ The role will typically be assigned to one person throughout the
 event, with that individual temporarily assigning the role to others
 should they need to leave the site for any reason.
 
-Procedures
-----------
-
-* TODO: fill in
-
 Preparation
 -----------
 
