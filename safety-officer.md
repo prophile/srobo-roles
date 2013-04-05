@@ -16,7 +16,7 @@ Responsibilities
 * To advise the head warden on any immediate safety concerns,
 * To oversee the safety inspections before robots are permitted to compete,
 * To make final decisions about what must be disallowed on safety grounds,
-* To issue an order to evacuate the building if he or she deems it
+* To issue a general evacuation order if he or she deems it
   necessary.
 
 Shifts
