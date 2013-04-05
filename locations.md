@@ -7,6 +7,8 @@ Reception
   ~ Adjacent to the main entrance, on the Concourse.
 Arena
   ~ The Cube.
+Battery Charging Station
+  ~ Level 2 corridor, signposted office.
 Refreshments
   ~ Near Reception, on the Concourse.
 Spare Tokens
