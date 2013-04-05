@@ -15,7 +15,10 @@ Shifts
 ------
 
 Duty Tech shifts are 30 minutes, and are required up to the semifinals
-of the knockout.
+of the knockout. At least one of the duty techs must be proficient
+with Python and the kit software, and at least one of the duty techs
+must be proficient with electronics and have familiarity with the
+kit itself.
 
 Preparation
 -----------
