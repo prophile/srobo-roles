@@ -10,9 +10,13 @@ First Aid
 For minor injuries, first aid kits are available at the following
 locations:
 
-* Reception desk
-* SUSU reception
-* Judge's desk
+* Reception desk,
+* Judge's desk,
+* SUSU reception.
+
+Using our own facilities at reception and the Judge's desk should
+be preferred for minor cases, in order not to unnecessarily bother
+the venue staff.
 
 The relevant area warden should be informed on any injuries, who
 will relay this information to the Safety Officer.
