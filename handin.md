@@ -45,8 +45,8 @@ The following procedure is used for each team handing in kit:
   the situation.
 * If all items are present, seal the box with the electrical tape.
 * Place the kit box behind the desk.
-* Thank the team, invite them to the next competition, and invite
-  them to next year's competition.
+* Thank the team, invite them to the next competition, and with
+  them a safe journey.
 
 Desk Items
 ----------
