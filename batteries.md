@@ -36,6 +36,13 @@ In case of a fire breaking out in the battery charging station:
 Dead or dangerous batteries should be disposed of by putting them
 into the provided *Sad LiPo Bucket*, which is filled with saline.
 
+Extra Batteries
+---------------
+
+Grey Matter Robotics have provided a large extra LiPo to supplement
+the Student Robotics-provided battery. There is one charger put
+aside for their extra battery.
+
 Preparation
 -----------
 
