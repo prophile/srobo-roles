@@ -30,7 +30,7 @@ Empty Batteries
 Dead Batteries
   ~ Kept at the Battery Charging Station.
 Vault Keys
-  ~ Kept in the Staff Area.
+  ~ Kept at Helpdesk.
 Refreshment Supplies
   ~ Kept at Helpdesk.
 Copies of the Rules
