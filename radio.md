@@ -49,10 +49,10 @@ of being on fire, is "Rob's thesis".
 Evacuation
 ----------
 
-In the event of an evacuation being necessary, either the safety
-officer or the head warden will broadcast this over the radios.
-Radio silence must be maintained during an evacuation unless
-transmission is absolutely necessary.
+In the event of a general evacuation being necessary, either the
+safety officer or the head warden will broadcast this over the
+radios.  Radio silence must be maintained during an evacuation
+unless transmission is absolutely necessary.
 
 Interruption
 ------------
