@@ -12,7 +12,8 @@ Responsibilities
 
 * To sit at Helpdesk,
 * To provide competitors information that they request,
-* To manage Blueshirts giving teams assistance,
+* To manage the Duty Techs and direct them to assist teams,
+* To co-ordinate Blueshirts giving teams assistance,
 * To collect discharged batteries and hand out charged batteries,
 * To move discharged batteries to the battery charging station and bring back
   fresh supplies at the end of shifts,
