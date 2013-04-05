@@ -1,13 +1,22 @@
 Evacuation Plan
 ===============
 
-In the event that an emergency requiring a building evacuation
-occurs, we must be prepared.
+In the event that an emergency requiring an evacuation occurs, we
+must be prepared. There are two types of evacuation: *area evacuations*,
+which apply only to specific areas, and the more severe *general
+evacuations* which are for the entire venue.
+
+Area Evacuations
+----------------
+
+Should an area warden deem it appropriate, they may institute an
+*area evacuation*, in which only that area is evacuated -- perhaps
+into another area rather than to the evacuation point.
 
 Discovery of Emergency
 ----------------------
 
-In the case of some emergency that will require a building evacuation,
+In the case of some emergency that will require a general evacuation,
 the Safety Officer and/or Head Warden must be informed as soon as
 possible. They both will have radios, and area wardens can relay
 information.
@@ -26,7 +35,7 @@ Safety Officer.
 Upon Evacuation Orders
 ----------------------
 
-An evacuation order is either:
+A general evacuation order is either:
 
 * An instruction over the radios from the Head Warden or Safety Officer, or
 * The building fire alarm.
@@ -49,8 +58,11 @@ Building Re-entry
 -----------------
 
 Once the Head Warden and Safety Officer agree it is safe to re-enter
-the building (possibly in consultation with either Southampton
-Estates and Facilities or the Fire Department in case of a fire
-alarm), they will ask the area wardens to return to their posts
-then make an announcement at the evacuation area.
+the building after a general evacuation (possibly in consultation
+with either Southampton Estates and Facilities or the Fire Department
+in case of a fire alarm), they will ask the area wardens to return
+to their posts then make an announcement at the evacuation area.
+
+Re-entry after area evacuations are at the discretion of that area's
+warden.
 
