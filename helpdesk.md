@@ -34,6 +34,14 @@ Procedures
 
 * TODO: tracker
 
+Kit Replacement:
+
+* Do not give kit replacements out at Helpdesk directly.
+* Kit replacements, if necessary, should be sent with a Duty Tech
+  to the team, so that the Duty Tech can make sure the robot is not
+  going to destroy the replacement device in the same manner as its
+  unfortunate predecessor.
+
 Preparation
 -----------
 
