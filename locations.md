@@ -9,6 +9,8 @@ Arena
   ~ The Cube.
 Battery Charging Station
   ~ Level 2 corridor, signposted office.
+Staff Area
+  ~ The balcony overlooking the Cube, and the corridor behind it.
 Refreshments
   ~ Near Reception, on the Concourse.
 Spare Tokens
